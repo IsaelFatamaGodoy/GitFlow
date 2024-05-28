@@ -1,0 +1,28 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.053 git status
+   2        2.080 git flow feature start demo5
+   3        0.078 mkdir demo2
+   4        0.015 history > Concept02.txt
+   5        0.042 git status
+   6        0.050 git add .
+   7        0.091 git commit -m "User Windows"
+   8        5.541 git flow feature finish
+   9        9.815 git pull
+  10        1.900 git push
+  11        0.008 clear
+  12        0.072 git reset --hard 018977da6c66de70ef5505e357ed051ac8a5f75a
+  13        1.827 git push --force
+  14        0.012 clear
+  15        3.549 git flow init
+  16        1.838 git flow feature start demo2
+  17        4.871 git flow feature finish
+  18        2.112 git checkout develop;  git pull origin develop; git fetc…
+  19        0.002 clear
+  20        3.707 git flow init
+  21        2.163 git flow feature start demo2
+  22        0.031 mkdir demo2
+  23        0.078 ls
+  24        0.014 cd .\demo2\
+
