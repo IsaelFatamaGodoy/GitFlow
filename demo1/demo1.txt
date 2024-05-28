@@ -1,0 +1,159 @@
+    1  ls
+    2  clear
+    3  git config
+    4  git
+    5  sudo apt install git
+    6  git config user.name
+    7  git config --global user.name IsaelFatamaGodoy
+    8  git config --global user.email isael.fatamacc@vallegrande.edu.pe
+    9  git clone https://github.com/IsaelFatamaGodoy/GitFlow.git
+   10  cd GitFlow/
+   11  git switch develop
+   12  git flow init
+   13  git branch
+   14  git flow
+   15  sudo apt update
+   16  sudo apt upgrade -y
+   17  sudo apt install git-flow
+   18  git flow init
+   19  git flow feature start demo1
+   20  history > demo1.txt
+   21  git status
+   22  git add .
+   23  git commit -m "demo"
+   24  git merge develop
+   25  gir branch
+   26  git branch
+   27  git checkout develop
+   28  git merge develop
+   29  git pull
+   30  git checkout feature/demo1
+   31  git merge develop
+   32  git flow feature finish demo1
+   33  git branch -a
+   34  git push
+   35  GitFlot.git
+   36  .git
+   37  git push
+   38  git reset --hard 018977da6c66de70ef5505e357ed051ac8a5f75a
+   39  git push --force
+   40  git flow feature start demo1
+   41  history > demo1.txt
+   42  git status
+   43  git add .
+   44  git commit -m "demo
+   45  "
+   46  git flow feature finish demo1
+   47  git status
+   48  git merge develop
+   49  git push
+   50  git pull
+   51  ls
+   52  git flow feature start demo1
+   53  git branch
+   54  git flow init
+   55  git flow feature start demo1
+   56  git checkout develop
+   57  git pull origin develop
+   58  git config pull.rebase false
+   59  git config pull.rebase true
+   60  git config pull.ff only
+   61  git config --global pull.rebase true
+   62  git pull origin develop
+   63  git pull 
+   64  git flow feature start demo1
+   65  cd ..
+   66  sudo rm -r GitFlow/
+   67  logout
+   68  ls
+   69  sudo
+   70  history
+   71  logout
+   72  history
+   73  logout
+   74  ls
+   75  ls -a
+   76  history
+   77  git clone https://github.com/IsaelFatamaGodoy/GitFlow.git
+   78  cd GitFlow/
+   79  ls
+   80  git switch develop
+   81  ls
+   82  clear
+   83  git flow init
+   84  git flow feature start demo2
+   85  history > pruebav4
+   86  cd GitFlow/
+   87  git flow init
+   88  git branch
+   89  ls
+   90  git statuis
+   91  git status
+   92  git add .
+   93  git commit -m "prueba4"
+   94  git flow feature publish demo2
+   95  git flow feature finish demo2
+   96  git branch
+   97  git pull
+   98  git push
+   99  logout
+  100  ls
+  101  history
+  102  cd GitFlow/
+  103  pws
+  104  pwd
+  105  clear
+  106  git flow feature start demo2
+  107  history > pruebav8.txt
+  108  ls
+  109  git status
+  110  git add .
+  111  git commit -m "Demo3"
+  112  git flow feature finish demo2
+  113  git pull
+  114  ls
+  115  git push
+  116  git flow feature start demo2
+  117  history > pruebav7.txt
+  118  git add .
+  119  git commit -m "PRUEBA 7"
+  120  git flow feature finish demo2
+  121  git push
+  122  git pull
+  123  git push
+  124  logout
+  125  history
+  126  ls
+  127  cd GitFlow/
+  128  ls
+  129  mkir demo
+  130  git flow init
+  131  git flow feature start demo1
+  132* git branc
+  133  git flow feature start demo4
+  134  mkdir demo1
+  135  history > Concept01.txt
+  136  git status
+  137  git add .
+  138  git commit -m "User ubuntu"
+  139  git flow feature finish
+  140  git push
+  141  clear
+  142  git pull --force
+  143  clear
+  144  git statu
+  145  git status
+  146  clear
+  147  git flow init
+  148  git flow feature start demo1
+  149  git flow feature start demo01
+  150  git flow finish
+  151* git checkout develop;  git pull origin develop; git fetch --all -p; git branch -vv | grep ": gone]" | awk '{ print $1 }' | xargs -n 1 git branch -D
+  152  clear
+  153  git flow init
+  154  git flow feature start demo1
+  155  mkdir demo1
+  156  ls
+  157  ls demo1/
+  158  cd demo1/
+  159  history > demo1.txt
